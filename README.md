@@ -18,7 +18,7 @@ after
 ```
 cd myapp
 npm i
-npm i ../ionic-native/ --save
+npm i ../ionic-native/
 cordova platform add android
 cordova plugin add https://github.com/mapsplugin/cordova-plugin-googlemaps#multiple_maps --variable API_KEY_FOR_ANDROID="<YOUR KEY>" --variable API_KEY_FOR_IOS="<YOUR KEY>"
 ionic run android

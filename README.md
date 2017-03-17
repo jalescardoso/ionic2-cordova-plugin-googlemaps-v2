@@ -29,5 +29,4 @@ The example follows the model ionic start myApp tabs --v2 with only 2 tabs becau
 Sorry for the english of google hehe
 thanks for listening
 
-<img src="https://raw.githubusercontent.com/jalescardoso/ionic2-cordova-plugin-googlemaps-v2/master/1.png" width="200">
-<img src="https://raw.githubusercontent.com/jalescardoso/ionic2-cordova-plugin-googlemaps-v2/master/2.png" width="200">
+<img src="https://raw.githubusercontent.com/jalescardoso/ionic2-cordova-plugin-googlemaps-v2/master/1.png" width="200"><img src="https://raw.githubusercontent.com/jalescardoso/ionic2-cordova-plugin-googlemaps-v2/master/2.png" width="200">

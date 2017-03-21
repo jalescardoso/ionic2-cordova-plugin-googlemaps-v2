@@ -8,7 +8,7 @@ The big problem with the previous version was not being able to use more than on
 
 Here is the ionic-native design and an example of wrapper use.
 
-Enter the terminal and the ionic-native folder and enter the following commands:
+# Getting Started
 ```
 cd ionic-native
 npm i 

@@ -30,3 +30,7 @@ Sorry for the english of google hehe
 thanks for listening
 
 <img src="https://raw.githubusercontent.com/jalescardoso/ionic2-cordova-plugin-googlemaps-v2/master/1.png" width="200"> <img src="https://raw.githubusercontent.com/jalescardoso/ionic2-cordova-plugin-googlemaps-v2/master/2.png" width="200">
+
+## Donate
+
+[![Ajude](https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar.gif)](https://pag.ae/bbkGLHL).
